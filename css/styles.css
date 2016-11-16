@@ -1,4 +1,13 @@
 .header-section{
-  background-color: #0099FF;
+  background-color:  #800020;
   padding: 10px 50px 0px 50px;
+}
+
+.name{
+  color: white;
+}
+
+.developer{
+  color: #181818;
+  font-style: italic;
 }
