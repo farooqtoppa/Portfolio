@@ -1,13 +1,21 @@
-.header-section{
+.header-section {
   background-color:  #800020;
   padding: 10px 50px 0px 50px;
 }
 
-.name{
+.name {
   color: white;
 }
 
-.developer{
+.developer {
   color: #181818;
   font-style: italic;
+}
+
+.links {
+  font-weight: bold;
+}
+
+#copy-right {
+  font-weight: bold;
 }
