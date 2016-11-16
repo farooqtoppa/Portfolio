@@ -1,6 +1,11 @@
 .header-section {
-  background-color:  #800020;
+  background-color:  lightgrey;
   padding: 10px 50px 0px 50px;
+}
+
+.footer-section {
+  background: lightgrey;
+  padding: 0px 50px 0px 50px;
 }
 
 .name {
@@ -14,6 +19,13 @@
 
 .links {
   font-weight: bold;
+  padding: 0px 50px 0px 50px;
+  color: black;
+  transition: all .5s ease-in-out;
+}
+
+.links:hover{
+  font-size: 150%;
 }
 
 #copy-right {
