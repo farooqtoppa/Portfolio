@@ -1,10 +1,10 @@
 .header-section {
-  background-color:  lightgrey;
+  background-color:  #D3D3D3;
   padding: 10px 50px 0px 50px;
 }
 
 .footer-section {
-  background: lightgrey;
+  background: #D3D3D3;
   padding: 0px 50px 0px 50px;
 }
 
@@ -26,6 +26,16 @@
 
 .links:hover{
   font-size: 150%;
+}
+
+#skills {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.skills-section {
+  background: white;
+  padding: 0px 50px 20px 80px;
 }
 
 #copy-right {
