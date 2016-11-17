@@ -1,6 +1,6 @@
 var skills = ' <div class="col-md-3"><img src="./img/%data%.png" alt="my skills" class="img-responsive img-circle"></div>';
 
-var skillsArray = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
+var skillsArray = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10'];
 
 var skillsNew = '';
 
