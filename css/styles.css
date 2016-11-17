@@ -8,10 +8,6 @@
   padding: 0px 50px 0px 50px;
 }
 
-.name {
-  color: white;
-}
-
 .developer {
   color: #181818;
   font-style: italic;
@@ -48,4 +44,8 @@
 .projects-section {
   background: #D3D3D3;
   padding: 0px 50px 20px 50px;
+}
+
+#about {
+  margin-left: 50px;
 }
