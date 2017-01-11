@@ -27,10 +27,10 @@ var projectsArray = [
     info: 'An application that enables users to share and edit their own movies. Users can sign up, login, logout, and even change their account information. This application has a working database and is hosted on Heroku.'
   },
   {
-    name: 'The Store Front',
-    img: 'store',
+    name: 'Game-Champ',
+    img: 'gamechamp',
     language: 'HTML / CSS3, JavaScript, MongoDB, Mongoose, and Angular',
-    info: "Full stack application that utilizes full user authentication. Store Front is a team built, multi-product store application with the ability to add, edit and delete products from a cart and view user's shopping history. This application is deployed on Heroku."
+    info: "Full stack application that utilizes full user authentication. Game-Champ is a multi-product store application with the ability to add, edit and delete products from a cart and view user's shopping history. This application is deployed on Heroku."
   }
 ];
 
