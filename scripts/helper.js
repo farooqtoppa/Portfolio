@@ -11,7 +11,7 @@ for(var i = 0; i < skillsArray.length; i++) {
 }
 
 // Projects
-var projects = '<li><h4><a href=%data4%>project link</a></h4><h3>%data%</h3><div class="row"><div class="col-md-3"><img src="./img/%data1%.png" alt="project-images" class="img-responsive"></div><div class="col-md-9"><h3>Languages: %data2% </h3><h5>%data3%</h5></div></div></li><br><hr>';
+var projects = '<li><h4><a href=%data4%>Live Page</a></h4><h3>%data%</h3><div class="row"><div class="col-md-3"><img src="./img/%data1%.png" alt="project-images" class="img-responsive"></div><div class="col-md-9"><h3>Languages: %data2% </h3><h5>%data3%</h5></div></div></li><br><hr>';
 
 var projectsArray = [
   {
